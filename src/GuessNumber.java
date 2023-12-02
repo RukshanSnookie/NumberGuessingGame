@@ -8,7 +8,6 @@ public class GuessNumber {
 	public static void main(String[] args) {
 		System.out.println("Hello  Player!! Welcome to the Number Guessing Game");
 		
-		
 		logIn();
 
 	}
